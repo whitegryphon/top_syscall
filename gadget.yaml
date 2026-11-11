@@ -1,8 +1,8 @@
-name: "@GADGET_NAME@"
+name: "top_syscall"
 description: Periodically report chdir syscall counts by process
-homepageURL: https://github.com/@REPOSITORY@
-documentationURL: https://github.com/@REPOSITORY@#readme
-sourceURL: https://github.com/@REPOSITORY@
+homepageURL: https://github.com/whitegryphon/top_syscall
+documentationURL: https://github.com/whitegryphon/top_syscall#readme
+sourceURL: https://github.com/whitegryphon/top_syscall
 datasources:
   calls:
     fields:
